@@ -1,0 +1,2 @@
+# Gamified-Mental-Health-and-Learning-Disorder-Detection
+An interactive board game integrated with a mental health and learning disorder detection system - Users answer questions related to disorders while playing, keeping them engaged. User responses are saved and mapped to the disorders using predefined criteria. At the end, users receive insights into potential disorders based on their answers.
